@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openbible-scraper", "openbible-scraper\openbible-scraper.csproj", "{9F581B5A-AA9D-4880-9395-F7BA7494FC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F581B5A-AA9D-4880-9395-F7BA7494FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F581B5A-AA9D-4880-9395-F7BA7494FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F581B5A-AA9D-4880-9395-F7BA7494FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F581B5A-AA9D-4880-9395-F7BA7494FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2DC373-56D5-434E-BD00-9191DF29FEB2}
+	EndGlobalSection
+EndGlobal
